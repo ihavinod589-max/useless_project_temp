@@ -120,7 +120,7 @@ Raw environmental audio is captured through the external microphone with browser
 
 ## Team Contributions
 - [Iha Vinod]: [Ideation and UI]
-- [Manav P]: [Devolopment]
+- [Manav P]: [Frontend Devolopment]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
