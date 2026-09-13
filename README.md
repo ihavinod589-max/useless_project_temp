@@ -113,7 +113,7 @@ Raw environmental audio is captured through the external microphone with browser
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1sM-04ynwH2ZQUV7CMzQPJYFqvKnC-e0q/view?usp=share_link]
-*Explain what the video demonstrates*
+*Shows how it basically works*
 
 # Additional Demos
 [Add any extra demo materials/links]
