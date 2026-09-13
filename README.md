@@ -61,7 +61,7 @@ xdg-open index.html
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1]
 (<img width="1382" height="896" alt="WhatsApp Image 2026-09-13 at 3 19 19 PM" src="https://github.com/user-attachments/assets/0bb74419-474a-44c1-94ae-68b422d13526" />
 )(Front page(while RNC is off))
